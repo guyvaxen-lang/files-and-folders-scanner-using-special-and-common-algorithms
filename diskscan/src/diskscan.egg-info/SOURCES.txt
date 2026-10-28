@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/diskscan/__init__.py
+src/diskscan/__main__.py
+src/diskscan/cli.py
+src/diskscan/duplicates.py
+src/diskscan/html_report.py
+src/diskscan/report.py
+src/diskscan/scanner.py
+src/diskscan/utils.py
+src/diskscan.egg-info/PKG-INFO
+src/diskscan.egg-info/SOURCES.txt
+src/diskscan.egg-info/dependency_links.txt
+src/diskscan.egg-info/entry_points.txt
+src/diskscan.egg-info/top_level.txt
+tests/test_diskscan.py
